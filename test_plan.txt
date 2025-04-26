@@ -1,0 +1,94 @@
+                     Test Plan Document
+ Project Name: CasioClone
+ Application Under Test (AUT): https://casioclone.netlify.app/
+ Prepared By: Keval Rathod
+ Date: April 24, 2025
+
+Test Plan for Casio Clone Website
+1.Introduction
+The purpose of this Test Plan is to verify the functionality, performance, usability, compatibility, and reliability of the Casio Clone website.
+2. Objectives & Tasks
+Objectives:
+➡️ Validate all functionalities of the website.
+➡️ Identify UI/UX and performance issues.
+➡️ Ensure compatibility across major browsers and devices.
+➡️ Ensure all bugs and issues are documented and addressed.
+➡️ Tasks:
+Test case design & review
+➡️ Functional & non-functional testing
+➡️ Bug reporting & re-testing
+➡️ Final QA sign-off
+3. Test Scope
+In Scope:
+➡️ Functional Testing
+➡️ UI/UX Testing
+➡️ Compatibility Testing
+➡️ Performance Testing
+➡️ Security Testing
+➡️ Load Testing
+➡️ Usability Testing
+Out of Scope:
+➡️ Payment Gateway Testing
+➡️ Database Validation (unless backend access is given)
+➡️ 3rd Party Integration Testing
+4. Test Strategy
+Types of Testing:
+➡️ Functional Testing
+➡️ UI/UX Testing
+➡️ Responsive Testing
+➡️ Compatibility Testing
+➡️ Performance Testing
+➡️  Load Testing
+➡️ Smoke & Sanity Testing
+➡️ Test Design Techniques:
+➡️ Equivalence Partitioning
+➡️ Boundary Value Analysis
+➡️ Error Guessing
+5. Test Deliverables
+➡️ Test Plan Document
+➡️ Test Scenarios
+➡️ Test Cases
+➡️ Execution Report
+➡️ Defect Report
+
+6. Test Environment
+➡️ Tech Stack: React (frontend)
+➡️ Browsers: Chrome, Firefox, Edge, Safari
+➡️ Devices: Desktop, Mobile, Tablet
+➡️ Tools: , JIRA/Googlesheet/Google docs
+7. Schedule
+
+Activity
+Start-date
+End-date
+Test-plnning
+Day 1
+Day -2
+Test case Design 
+Day 2
+Day 3
+Test Execution
+Day 3
+Day 4
+Bug report
+Day  4
+Day 5
+
+
+
+
+
+
+
+
+8. Team Roles
+ ➡️  Test Lead: Keval
+ ➡️  Test Engineer: Self
+➡️   Developer Contact: keval
+➡️   Stakeholder: kevin
+10. Risks & Mitigations
+Risk	                           Migration
+Tight deadlines	          Prioritize critical test cases
+No documentation	    Frequent dev/test communication
+Unstable builds	Perform smoke testing
+
