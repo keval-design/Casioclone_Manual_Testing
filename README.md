@@ -15,6 +15,8 @@ Operating System and Browsers Used:
 
 ✅ Chrome
 
+![Alt Text]("C:\Users\keval\Downloads\screencapture-casioclone-netlify-app-2025-04-27-21_25_09.png"?raw=true)
+
 Directory Structure
 Copy
 Edit
